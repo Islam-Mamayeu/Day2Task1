@@ -14,7 +14,7 @@ namespace Logic
             double result = 0;
             double precResult = 1;
 
-            if (number < 0 && n % 2 == 0)
+            if (number<0 && n % 2==0)
             {
                 throw new Exception();
             }
