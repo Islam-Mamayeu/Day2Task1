@@ -1,0 +1,11 @@
+c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\Solution2_1\Logic\bin\Debug\Logic.dll
+c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\Solution2_1\Logic\bin\Debug\Logic.pdb
+c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\Solution2_1\Logic\bin\Debug\nunit.core.dll
+c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\Solution2_1\Logic\bin\Debug\nunit.core.interfaces.dll
+c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\Solution2_1\Logic\bin\Debug\nunit.framework.dll
+c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\Solution2_1\Logic\bin\Debug\nunit.util.dll
+c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\Solution2_1\Logic\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\Solution2_1\Logic\bin\Debug\nunit.framework.xml
+c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\Solution2_1\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\Solution2_1\Logic\obj\Debug\Logic.dll
+c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\Solution2_1\Logic\obj\Debug\Logic.pdb

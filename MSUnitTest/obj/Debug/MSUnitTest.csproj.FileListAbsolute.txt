@@ -1,0 +1,9 @@
+c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\Solution2_1\MSUnitTest\bin\Debug\MSUnitTest.dll
+c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\Solution2_1\MSUnitTest\bin\Debug\MSUnitTest.pdb
+c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\Solution2_1\MSUnitTest\obj\Debug\MSUnitTest.csprojResolveAssemblyReference.cache
+c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\Solution2_1\MSUnitTest\obj\Debug\MSUnitTest.dll
+c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\Solution2_1\MSUnitTest\obj\Debug\MSUnitTest.pdb
+c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\Solution2_1\MSUnitTest\bin\Debug\Logic.dll
+c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\Solution2_1\MSUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\Solution2_1\MSUnitTest\bin\Debug\Logic.pdb
+c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\Solution2_1\MSUnitTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
